@@ -1,5 +1,6 @@
+##
 📊 TheJerseyClub – Data Analysis Project
-
+##
 Proyecto de análisis de datos de ventas de jerseys que incluye limpieza y transformación de datos con Python, análisis exploratorio (EDA) y un dashboard interactivo en Power BI para analizar desempeño de ventas, rentabilidad e inventario.
 
 📁 Estructura del proyecto
