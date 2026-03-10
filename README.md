@@ -3,7 +3,7 @@
 ##
 Proyecto de análisis de datos de ventas de jerseys que incluye limpieza y transformación de datos con Python, análisis exploratorio (EDA) y un dashboard interactivo en Power BI para analizar desempeño de ventas, rentabilidad e inventario.
 
-📁 Estructura del proyecto
+## Estructura del proyecto
 TheJerseyClub-DataAnalysis
 
 Analisis EDA TheJerseyClub/
@@ -37,7 +37,7 @@ scripts/
 
     
 
-El proceso de limpieza de datos incluyó:
+## El proceso de limpieza de datos incluyó:
 
 conversión de columnas de fechas al formato datetime
 
@@ -51,7 +51,7 @@ conversión de variables financieras (costo, envío, venta, ganancia) a formato 
 
 generación de un dataset limpio listo para análisis exploratorio y visualización en Power BI.
 
-Herramientas utilizadas:
+### Herramientas utilizadas:
 
 Python
 
@@ -59,7 +59,7 @@ Pandas
 
 Numpy
 
-🔎 Análisis Exploratorio de Datos (EDA)
+## Análisis Exploratorio de Datos (EDA)
 
 Se realizaron distintos análisis para entender el comportamiento del negocio:
 
